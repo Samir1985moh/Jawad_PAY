@@ -60,7 +60,7 @@ def home():
                 
                 <!-- الصورة الثانية: إدارة المخازن -->
                 <div class="photo-card">
-                    <img src="" alt="إدارة المخازن">
+                    <img src="https://pexels.com" alt="إدارة المخازن">
                     <div class="photo-caption">شاشة جرد المخازن وإدارة المنتجات</div>
                 </div>
                 
