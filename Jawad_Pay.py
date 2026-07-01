@@ -54,13 +54,13 @@ def home():
             <div class="gallery-grid">
                 <!-- الصورة الأولى: لوحة التحكم -->
                 <div class="photo-card">
-                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Sales.png?raw=true" alt="لوحة التحكم الرئيسية">
+                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Control Panel.png?raw=true" alt="لوحة التحكم الرئيسية">
                     <div class="photo-caption">لوحة التحكم والمؤشرات الإحصائية العامة</div>
                 </div>
                 
                 <!-- الصورة الثانية: إدارة المخازن -->
                 <div class="photo-card">
-                    <img src="https://githubusercontent.com/Samir1985moh/Jawad_PAY/main/Reports.png" alt="إدارة المخازن">
+                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Reports.png?raw=true" alt="إدارة المخازن">
                     <div class="photo-caption">شاشة جرد المخازن وإدارة المنتجات</div>
                 </div>
                 
