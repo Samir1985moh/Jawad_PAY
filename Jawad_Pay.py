@@ -54,7 +54,7 @@ def home():
             <div class="gallery-grid">
                 <!-- الصورة الأولى: لوحة التحكم -->
                 <div class="photo-card">
-                    <img src="https://pexels.com" alt="لوحة التحكم الرئيسية">
+                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Control%20Panel.png" alt="لوحة التحكم الرئيسية">
                     <div class="photo-caption">لوحة التحكم والمؤشرات الإحصائية العامة</div>
                 </div>
                 
