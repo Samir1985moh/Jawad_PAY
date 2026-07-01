@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: jawad-erp-pay
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn Jawad_Pay:app
