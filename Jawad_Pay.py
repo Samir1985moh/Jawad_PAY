@@ -60,13 +60,13 @@ def home():
                 
                 <!-- الصورة الثانية: إدارة المخازن -->
                 <div class="photo-card">
-                    <img src="https://pexels.com" alt="إدارة المخازن">
+                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Reports.png" alt="إدارة المخازن">
                     <div class="photo-caption">شاشة جرد المخازن وإدارة المنتجات</div>
                 </div>
                 
                 <!-- الصورة الثالثة: المبيعات والفواتير -->
                 <div class="photo-card">
-                    <img src="https://pexels.com" alt="المبيعات والفواتير">
+                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Sales.png" alt="المبيعات والفواتير">
                     <div class="photo-caption">إصدار الفواتير وإدارة مبيعات العملاء</div>
                 </div>
             </div>
