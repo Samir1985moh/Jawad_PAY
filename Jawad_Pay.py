@@ -39,7 +39,7 @@ def home():
         </style>
     </head>
     <body>
-        <div class="navbar">جواد لتقنية المعلومات</div>
+        <div class="navbar">الجواد لتقنية المعلومات</div>
         
         <div class="container">
             <div class="hero-card">
@@ -54,7 +54,7 @@ def home():
             <div class="gallery-grid">
                 <!-- الصورة الأولى: لوحة التحكم -->
                 <div class="photo-card">
-                    <img src="https://unsplash.com" alt="لوحة التحكم الرئيسية">
+                    <img src="https://pexels.com" alt="لوحة التحكم الرئيسية">
                     <div class="photo-caption">لوحة التحكم والمؤشرات الإحصائية العامة</div>
                 </div>
                 
