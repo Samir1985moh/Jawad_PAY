@@ -66,7 +66,7 @@ def home():
                 
                 <!-- الصورة الثالثة: المبيعات والفواتير -->
                 <div class="photo-card">
-                    <img src="https://githubusercontent.com/Samir1985moh/Jawad_PAY/main/Sales.png" alt="المبيعات والفواتير">
+                    <img src="Sales.png" alt="المبيعات والفواتير">
                     <div class="photo-caption">إصدار الفواتير وإدارة مبيعات العملاء</div>
                 </div>
             </div>
