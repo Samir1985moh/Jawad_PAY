@@ -54,19 +54,19 @@ def home():
             <div class="gallery-grid">
                 <!-- الصورة الأولى: لوحة التحكم -->
                 <div class="photo-card">
-                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Control%20Panel.png" alt="لوحة التحكم الرئيسية">
+                    <img src="https://githubusercontent.com/Samir1985moh/Jawad_PAY/main/Control%20Panel.png" alt="لوحة التحكم الرئيسية">
                     <div class="photo-caption">لوحة التحكم والمؤشرات الإحصائية العامة</div>
                 </div>
                 
                 <!-- الصورة الثانية: إدارة المخازن -->
                 <div class="photo-card">
-                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Reports.png" alt="إدارة المخازن">
+                    <img src="https://githubusercontent.com/Samir1985moh/Jawad_PAY/main/Reports.png" alt="إدارة المخازن">
                     <div class="photo-caption">شاشة جرد المخازن وإدارة المنتجات</div>
                 </div>
                 
                 <!-- الصورة الثالثة: المبيعات والفواتير -->
                 <div class="photo-card">
-                    <img src="https://github.com/Samir1985moh/Jawad_PAY/blob/main/Sales.png" alt="المبيعات والفواتير">
+                    <img src="https://githubusercontent.com/Samir1985moh/Jawad_PAY/main/Sales.png" alt="المبيعات والفواتير">
                     <div class="photo-caption">إصدار الفواتير وإدارة مبيعات العملاء</div>
                 </div>
             </div>
